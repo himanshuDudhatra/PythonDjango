@@ -69,7 +69,6 @@ print("\n")
 
 #dictionary
 #dictionary are kind of hash data type
-
 d = {1:'himanshu',2:'dudhatra',"string":10,3:19}
 print(type(d))
 print(d)
